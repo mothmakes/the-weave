@@ -1,0 +1,13 @@
+name = "Vanilla Refresh"
+filename = "vanillarefresh-v1.4.19g_1.20.x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gWO6Zqey/versions/hJUtSV0a/vanillarefresh-v1.4.19g_1.20.x.zip"
+hash-format = "sha1"
+hash = "696da07f970c8143604e809e3ab051fd9c1c48ee"
+
+[update]
+[update.modrinth]
+mod-id = "gWO6Zqey"
+version = "hJUtSV0a"

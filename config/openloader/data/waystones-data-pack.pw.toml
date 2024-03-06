@@ -1,0 +1,13 @@
+name = "Waystones"
+filename = "PK_Waystones_V3.1.2_for_MC_1.20.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UKUcgltR/versions/GSrnEWQA/PK_Waystones_V3.1.2_for_MC_1.20.3.zip"
+hash-format = "sha1"
+hash = "ece9b571159cb193ca1b25a81fa5edf7c1f323be"
+
+[update]
+[update.modrinth]
+mod-id = "UKUcgltR"
+version = "GSrnEWQA"
