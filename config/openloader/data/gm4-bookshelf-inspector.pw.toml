@@ -1,0 +1,13 @@
+name = "Bookshelf Inspector"
+filename = "gm4_bookshelf_inspector_1_20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hI6pAf86/versions/aYBwxCol/gm4_bookshelf_inspector_1_20.zip"
+hash-format = "sha1"
+hash = "aa293d8234e3d02b0adc6f2411af790e7bc56c0e"
+
+[update]
+[update.modrinth]
+mod-id = "hI6pAf86"
+version = "aYBwxCol"

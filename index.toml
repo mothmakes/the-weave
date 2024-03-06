@@ -9,6 +9,16 @@ file = "README.md"
 hash = "1137a3a8973b12b4dd0de5abb0c2a58d83956efffd5b2f80a96f6a02ece31a46"
 
 [[files]]
+file = "config/openloader/data/gm4-bookshelf-inspector.pw.toml"
+hash = "f87be82b65cdcb11641c60c0c4a54419d66a0586faad0cb185e2e49503283215"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/gm4-rope-ladders.pw.toml"
+hash = "8e5b9de45eca8c09b882448bbd881d3ab04a18a4035f28e010e28b83acaa4810"
+metafile = true
+
+[[files]]
 file = "config/openloader/data/vanilla-refresh.pw.toml"
 hash = "79e587df044aa4ba18164880764158ed7f27eee98793581ad5374c797ee07a70"
 metafile = true
@@ -91,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "26ee83cf460fd3e1348471a6bc15e89de773cca359338c55659617c2ab9e196f"
 metafile = true
 
 [[files]]

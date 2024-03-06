@@ -1,0 +1,13 @@
+name = "Rope Ladders"
+filename = "gm4_rope_ladders_1_20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wN3RC3Zr/versions/WwiSjdp3/gm4_rope_ladders_1_20.zip"
+hash-format = "sha1"
+hash = "ed1fa02dbf4457591bcb69ccefa8ebbba589e03a"
+
+[update]
+[update.modrinth]
+mod-id = "wN3RC3Zr"
+version = "WwiSjdp3"
