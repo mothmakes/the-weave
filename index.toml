@@ -9,6 +9,90 @@ file = "README.md"
 hash = "1137a3a8973b12b4dd0de5abb0c2a58d83956efffd5b2f80a96f6a02ece31a46"
 
 [[files]]
+file = "config/fancymenu/assets/accessibility_hovered.png"
+hash = "3a976e033ebf130e0a480fc2453a6e20539d0002d6343456879f93495e0f71c1"
+
+[[files]]
+file = "config/fancymenu/assets/accessibility_normal.png"
+hash = "84295ba37043f8035aefa2420cb0a0ed29163019c116cbbf6a367e7c3a961be3"
+
+[[files]]
+file = "config/fancymenu/assets/button.png"
+hash = "af10cb2c94ff072074de8fc723bdeb8017f09ff04b2b36f02b901e94fd374807"
+
+[[files]]
+file = "config/fancymenu/assets/button_disabled.png"
+hash = "c16fb5a57cbe83b594a39beae4bd02c130c3e25c4f401cfae626f4d8574cf88b"
+
+[[files]]
+file = "config/fancymenu/assets/button_hovered.png"
+hash = "42400641a67f14e705945515831bd38df7ffd10ba4117827e0d730412d5bcedc"
+
+[[files]]
+file = "config/fancymenu/assets/exit_hovered.png"
+hash = "a1638142f46d3f976153081d4213e59aabc4e760763d0e38d3dd4a57abb188d9"
+
+[[files]]
+file = "config/fancymenu/assets/exit_normal.png"
+hash = "36062b6ba46ac8f9c845c0d98d124e00c9aad31ec84ff59fa297b5606f8a2d77"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+hash = "7b86b1f691f2611d55e371700b5c36d2c9cd33342778e62329df056c949edb76"
+
+[[files]]
+file = "config/fancymenu/assets/icon256.icns"
+hash = "a1d8e626346cc9204efbf538500dcb458cf49af51626ac79979a71eb6ccf9e72"
+
+[[files]]
+file = "config/fancymenu/assets/icon256.png"
+hash = "16453c70787a5342d9ac0b9ee641db68aeda68b1c04bcdc40756b0d417d8107b"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+hash = "75849122371b71bb161a0f649f5b1c8903bb9a025af0c6e31fa62ad6dbf638ec"
+
+[[files]]
+file = "config/fancymenu/assets/languages_hovered.png"
+hash = "4fa9879230b00140f83ba4266a301a3a9050e5eb0283e7de4d954e8927fc619a"
+
+[[files]]
+file = "config/fancymenu/assets/languages_normal.png"
+hash = "b34bc7fa7aef244cd669b02c5e267fa02f61d7a3dc5fb0f1e0ab9b10c2150be2"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft_title.png"
+hash = "806b15a01758b7bbce40b51d579fa89934eaf2bf4f96fa3359b787cfcfa324ee"
+
+[[files]]
+file = "config/fancymenu/assets/options_hovered.png"
+hash = "a89d3fb38c2b3daccbede437567794cc6bddb0c1478e05ccdb185b4eafbf114c"
+
+[[files]]
+file = "config/fancymenu/assets/options_normal.png"
+hash = "f591752476bd3a71734f7b9a7c865a43ad6ff11d827dfc09097678463578a9c4"
+
+[[files]]
+file = "config/fancymenu/assets/replay_hovered.png"
+hash = "2d6a0ce751eb5f9292a6e13dc437ee0e088b92a710d8f5f45bc0d20e9a86d854"
+
+[[files]]
+file = "config/fancymenu/assets/replay_normal.png"
+hash = "c89f296ad3e66f92a0a23de104a40fb689ab2bb4d27e83312fd00a354cd5a723"
+
+[[files]]
+file = "config/fancymenu/customization/accessibility_onboarding_screen_layout.txt"
+hash = "f66b422ecf57a8d3bd57ca2bd860d228667ac84fe9cf89326272b8b735d55eb7"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "89d7c03552a449ac608059826329dd3db940607c6ed52b769919758a74708e07"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "60347fab80c5681d1811294183edad5e214daa9857a113d59a2e9d2cc9714da7"
+
+[[files]]
 file = "config/openloader/data/gm4-bookshelf-inspector.pw.toml"
 hash = "f87be82b65cdcb11641c60c0c4a54419d66a0586faad0cb185e2e49503283215"
 metafile = true
@@ -424,6 +508,16 @@ hash = "5ff3f8eb488d24fc70830b805da7a33d8fa9ffa1b45d858bf60189060c56093c"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "029d7776be39175a6075ef310e4a42402b1b38a3c4bd3631f9d216fd87399265"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "0e64714c116db266b1c35b0fea980d0ad75ddee7639d13f89d5cedf6c7e336e7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
 metafile = true
