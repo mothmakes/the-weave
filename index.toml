@@ -6,7 +6,7 @@ hash = "f83b506069787c7f58da4c386675307576a31a6b36108552af6092520b57dee6"
 
 [[files]]
 file = "README.md"
-hash = "1137a3a8973b12b4dd0de5abb0c2a58d83956efffd5b2f80a96f6a02ece31a46"
+hash = "e84d21e69b75dde5e3e865d7e4f7ba72862448c9fd77ecc7d587c7e3b7d088f9"
 
 [[files]]
 file = "config/fancymenu/assets/accessibility_hovered.png"
@@ -15,6 +15,10 @@ hash = "3a976e033ebf130e0a480fc2453a6e20539d0002d6343456879f93495e0f71c1"
 [[files]]
 file = "config/fancymenu/assets/accessibility_normal.png"
 hash = "84295ba37043f8035aefa2420cb0a0ed29163019c116cbbf6a367e7c3a961be3"
+
+[[files]]
+file = "config/fancymenu/assets/background.png"
+hash = "e68ea21c800e9c60f59441cdced04d458f8e0b472ca40dfe93580b590d48d307"
 
 [[files]]
 file = "config/fancymenu/assets/button.png"
@@ -81,16 +85,44 @@ file = "config/fancymenu/assets/replay_normal.png"
 hash = "c89f296ad3e66f92a0a23de104a40fb689ab2bb4d27e83312fd00a354cd5a723"
 
 [[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "b4ae5e55cb01494dcbea9a40067772e25db759cba9fdbb5271385b01423b47c8"
+
+[[files]]
 file = "config/fancymenu/customization/accessibility_onboarding_screen_layout.txt"
-hash = "f66b422ecf57a8d3bd57ca2bd860d228667ac84fe9cf89326272b8b735d55eb7"
+hash = "9ec8f537cdfb629204ead57c35bb94aac2b42ba96e33f2267ca0670732182804"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "89d7c03552a449ac608059826329dd3db940607c6ed52b769919758a74708e07"
+hash = "f5b46359cd1aaca35c17c700371d4a58f996d2a23e0e9f8e42c1f66ad8c64115"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "60347fab80c5681d1811294183edad5e214daa9857a113d59a2e9d2cc9714da7"
+hash = "a835eb581cdeaf821eb74468c6f639b233d16fb87e94543fde73a4fd758ad0a4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/openloader/data/gm4-bookshelf-inspector.pw.toml"
@@ -516,6 +548,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "0e64714c116db266b1c35b0fea980d0ad75ddee7639d13f89d5cedf6c7e336e7"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "b26e77491bdaeae5c574a96072b72e8e36f323d1e98887c373c04ac1f7e859f5"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"

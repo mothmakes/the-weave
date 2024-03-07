@@ -1,4 +1,4 @@
-name = "The Weave"
+name = "The Weave: A New Beginning"
 author = "Pahsunaal"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "96254b1a56a9e2d825e36be55072269c0fc88ebdfeef5cf29a0f1b01b83bfd98"
+hash = "ac292b7ca98a5f0d3024e27819df4681848b00fa6261366eb7daed51cf5fd6b4"
 
 [versions]
 fabric = "0.15.7"
